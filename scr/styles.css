@@ -1,0 +1,8 @@
+@media(min-width:425px) {
+    /*aplicar los estilos aquí a partir de este ancho mínimo  de */
+    .body{
+        border: 1px;
+        padding: 90px;
+    }
+    
+} 
